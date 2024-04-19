@@ -1,0 +1,16 @@
+
+  {
+    "user":[
+      { "username":"wilhelm", "password":"w23w32", "foto":"https://randomuser.me/api/portraits/men/28.jpg", "email":"wilem@gmail.com", "nohp":"082982643213" },
+      { "username":"fritzia", "password":"f32g23", "foto":"https://randomuser.me/api/portraits/women/16.jpg", "email":"fritzia@gmail.com", "nohp":"081467865343" },
+      { "username":"Cecilia", "password":"icha25", "foto":"https://randomuser.me/api/portraits/women/12.jpg", "email":"mcaecilia@gmail.com", "nohp":"082465780564" }
+    ],
+    "Hobby":
+    [
+      { "nama":"Play with dogs ", "deskripsi":"Berikan waktu luang untuk mengajak anjing peliharaan anda untuk bermain di lingkungan sekitar.", "logo":"https://www.bing.com/images/search?view=detailV2&ccid=eIEz73xZ&id=8F3C36E97546BCFB81FA2EA2718DDD256543F7EF&thid=OIP.eIEz73xZoLmYwqTF92FciwHaEw&mediaurl=https%3a%2f%2fwww.hdnicewallpapers.com%2fWalls%2fBig%2fDog%2fBeautiful_Dog_Puppy_4K_Wallpaper.jpg&exph=2470&expw=3840&q=dogs+image+free&simid=608036996100291712&FORM=IRPRST&ck=D4E65EEB9DB32FFB24E7985A1E27497A&selectedIndex=5&itb=0"},
+      { "nama":"Walk with dogs ", "deskripsi":"Berikan waktu luang untuk mengajak anjing peliharaan anda untuk jalan-jalan.", "logo":"https://www.bing.com/images/search?view=detailV2&ccid=eIEz73xZ&id=8F3C36E97546BCFB81FA2EA2718DDD256543F7EF&thid=OIP.eIEz73xZoLmYwqTF92FciwHaEw&mediaurl=https%3a%2f%2fwww.hdnicewallpapers.com%2fWalls%2fBig%2fDog%2fBeautiful_Dog_Puppy_4K_Wallpaper.jpg&exph=2470&expw=3840&q=dogs+image+free&simid=608036996100291712&FORM=IRPRST&ck=D4E65EEB9DB32FFB24E7985A1E27497A&selectedIndex=5&itb=0"},
+      { "nama":"Give your dog the appropriate food  ", "deskripsi":"Berikan makanan yang sesusai dengan anjing anda, agar bisa pertumbuhannya bagus.", "logo":"https://www.bing.com/images/search?view=detailV2&ccid=eIEz73xZ&id=8F3C36E97546BCFB81FA2EA2718DDD256543F7EF&thid=OIP.eIEz73xZoLmYwqTF92FciwHaEw&mediaurl=https%3a%2f%2fwww.hdnicewallpapers.com%2fWalls%2fBig%2fDog%2fBeautiful_Dog_Puppy_4K_Wallpaper.jpg&exph=2470&expw=3840&q=dogs+image+free&simid=608036996100291712&FORM=IRPRST&ck=D4E65EEB9DB32FFB24E7985A1E27497A&selectedIndex=5&itb=0"}
+    ]
+  }
+
+
